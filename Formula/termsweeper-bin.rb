@@ -1,7 +1,6 @@
 class TermsweeperBin < Formula
   desc "Customizable minesweeper terminal UI"
   homepage "https://github.com/vinegm/termsweeper"
-  version "1.0.0"
   license "MIT"
 
   on_macos do
